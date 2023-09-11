@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="com.tao.test.GUITest">
+  <grid id="27dc6" binding="ttt" layout-manager="FlowLayout" hgap="200" vgap="200" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="643" height="430"/>
+    </constraints>
+    <properties>
+      <background color="-1314062"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="e5478" class="javax.swing.JButton" binding="button1" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="Button"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
